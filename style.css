@@ -48,6 +48,10 @@ position: relative;
 top:25px;
 }
 
+.logo-p {
+  margin: auto;
+}
+
 .pointer-color{
   color: #314a5b;
 }
